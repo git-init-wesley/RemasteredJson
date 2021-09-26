@@ -1,0 +1,11 @@
+{
+  "calandar": "27 Mai 2021",
+  "name": "RemasteredJson",
+  "description": "RemasteredJson is a Swift package to facilitate the use of the Json encoder and decoder.",
+  "url": "https://github.com/kanekireal/RemasteredJson",
+  "author": "Wesley Levasseur",
+  "authorUrl": "ttps://github.com/kanekireal",
+  "background": "https://raw.githubusercontent.com/kanekireal/RemasteredJson/main/background.jpg",
+  "version": "1.1.2",
+  "language": "swift"
+}
